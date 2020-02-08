@@ -3,6 +3,7 @@
 class Triangle
   def initialize(side[0], side[1], side[2])
     @side[0] = side[0]
+    @side[0] = side[0]
     
   end
 
