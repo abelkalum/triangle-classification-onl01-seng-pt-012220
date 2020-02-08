@@ -1,7 +1,7 @@
 # lib/triangle.rb
  
 class Triangle
-  def initialize(*args)
+  def initialize(side[0], side[1], side[2])
     @sides = *args.sort
   end
 
